@@ -1,0 +1,23 @@
+{
+  "name": "securejs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caridy/securejs.git"
+  },
+  "author": "Caridy Patiño <caridy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caridy/securejs/issues"
+  },
+  "homepage": "https://github.com/caridy/securejs#readme",
+  "devDependencies": {
+    "rollup": "^0.56.0",
+    "rollup-plugin-node-globals": "^1.1.0"
+  }
+}
